@@ -22,3 +22,5 @@ If you get builder timeout errors you need to add the follwing to the end of you
 <IfModule mod_substitute.c>
 SubstituteMaxLineLength 20M
 </IfModule>
+
+Related blog post is here: https://www.georgenicolaou.me/divi-requirements/
